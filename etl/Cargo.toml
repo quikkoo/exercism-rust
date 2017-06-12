@@ -1,0 +1,6 @@
+[package]
+name = "etl"
+version = "1.0.0"
+
+[lib]
+path = "src/etl.rs"

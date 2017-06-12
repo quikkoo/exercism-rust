@@ -1,0 +1,9 @@
+[package]
+name = "word-count"
+version = "1.0.0"
+
+[lib]
+path = "src/word-count.rs"
+
+[dependencies]
+regex = "0.2.1"

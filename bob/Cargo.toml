@@ -1,0 +1,9 @@
+[package]
+name = "bob"
+version = "1.0.0"
+
+[lib]
+path = "src/bob.rs"
+
+[dependencies]
+regex = "0.2.1"
